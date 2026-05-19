@@ -1,0 +1,21 @@
+{
+  "name": "ArtScape Studio",
+  "short_name": "ArtScape",
+  "description": "An immersive creative sanctuary for aspiring artists, hobbyists, and professionals.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#c2410c",
+  "background_color": "#1c1917",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "./opengraph.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg"
+    }
+  ]
+}
